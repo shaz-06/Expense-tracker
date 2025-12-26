@@ -79,7 +79,9 @@ Live demo will be added soon.
 
 Shashank Shetty
 Java Development Intern
-GitHub: https://github.com/shaz-06
+🔗 GitHub: https://github.com/shaz-06
+🔗 Linkedin: https://www.linkedin.com/in/shashank-shetty-070447336/
+🔗 Email: shashankshetty3219@gmail.com
 
 ## 📄 License
 

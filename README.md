@@ -40,9 +40,13 @@ npm install
 # Start the development server
 npm start
 
+---
+
 ## The application will run at:
 
 http://localhost:3000
+
+---
 
 ## 📊 Project Use Case
 
@@ -58,6 +62,8 @@ This project is suitable for:
 
 •Internship and academic project submissions
 
+---
+
 ## 📁 Folder Structure
 expense-tracker/
 ├── public/
@@ -71,9 +77,13 @@ expense-tracker/
 ├── package.json
 └── README.md
 
+---
+
 ## 🌐 Live Demo
 
-Live demo will be added soon.
+https://expensetracker-murex-alpha.vercel.app/
+
+---
 
 ## 👨‍💻 Author
 
@@ -82,6 +92,8 @@ Java Development Intern
 🔗 GitHub: https://github.com/shaz-06
 🔗 Linkedin: https://www.linkedin.com/in/shashank-shetty-070447336/
 🔗 Email: shashankshetty3219@gmail.com
+
+---
 
 ## 📄 License
 
